@@ -8,8 +8,6 @@ public class AlpineApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AlpineApplication.class, args);
-		// hello
-		// hi
 	}
 
 }
